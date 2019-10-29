@@ -8,6 +8,7 @@ public class Main {
 
     {
         String Testgit;
+        String NadiaErEnKusse;
         try
         {
             File file = new File("/Users/nicspiegelhauer/Documents/InteliJ Projects/Demo project/TooLong/src/File.txt");
